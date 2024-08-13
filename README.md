@@ -26,12 +26,15 @@ Key Results:
 The hospital's average recovery rating stands at 5.43, showing an upward trend in recovery outcomes.
 Patient admissions show a cyclical pattern, with peaks during certain seasons or months.
 Predictive models are used to forecast future patient admissions, aiding in resource allocation and capacity planning.
+
 Business Impact:
 The cyclical pattern in patient admissions allows the hospital to anticipate and prepare for peak periods, ensuring adequate staffing, resources, and reducing potential strain on hospital infrastructure.
 The average medical bill of $10,000 and daily cost of $1,000 per patient underscore the importance of optimising billing processes and exploring new revenue streams or cost-saving initiatives.
 An upward trend in recovery ratings indicates improved patient outcomes, which can enhance the hospital’s reputation and attract more patients. Continuous monitoring and efforts to further improve recovery ratings are essential.
+
 The  gender distribution and high number of patients with diabetes  emphasise the need for tailored treatment plans and specialised care programs to address diverse patient needs effectively.
 The high patient count for surgery and other treatments like counselling and medication  suggests the potential for the hospital to specialise in these areas, offering advanced treatments and attracting patients seeking these services.
+
 Utilising predictive models for admissions forecasting and resource allocation highlights the importance of investing in technology and data analytics to enhance operational efficiency and decision-making.
 
 
